@@ -1,12 +1,12 @@
 @font-face {
-font-family: "GE-Dinar-Two-Medium";
+font-family: "GE-Dinar-Two-Medium_1E";
 font-style: normal;
 src: url(GE-Dinar-Two-Medium_1E.ttf) format("ttf");
 font-display: auto;
 }
 
 @font-face {
-font-family: "GE-Dinar-Two-Medium";
+font-family: "GE-Dinar-Two-Medium_1E";
 font-style: normal;
 font-weight: 700;
 src: url(GE-Dinar-Two-Medium_1E.ttf) format("truetype");
@@ -16,7 +16,7 @@ U+FEFF, U+FFFD;
 }
 
 body {
-font-family: "GE-Dinar-Two-Medium", cursive;
+font-family: "GE-Dinar-Two-Medium_1E", cursive;
 text-align: center;
 }
 
